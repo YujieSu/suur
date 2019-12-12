@@ -17,3 +17,8 @@ hello <- function() {
   print("Hello, world!")
 }
 
+#' template
+#'
+#' @name template
+#' @docType package
+NULL
