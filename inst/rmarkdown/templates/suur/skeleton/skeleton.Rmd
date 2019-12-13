@@ -11,8 +11,8 @@ output:
     toc: yes
     toc_float: yes 
     toc_depth: 3
-subtitle: Specially Prepared for Dr. FIRST LAST
-email:
+subtitle: This is an rmarkdown template example
+email: suyj56@gmail.com
 ---
 
 ```{r setup, include=FALSE}

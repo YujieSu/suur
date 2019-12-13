@@ -21,4 +21,10 @@ hello <- function() {
 #'
 #' @name template
 #' @docType package
-NULL
+suur <- function(toc = TRUE, ...){
+  rmarkdown::html_document(
+    toc = toc,
+    ...
+  )
+
+}
